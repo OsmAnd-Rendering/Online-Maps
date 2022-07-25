@@ -19,7 +19,7 @@ Les cartes raster sont un ajout complet aux cartes vectorielles OpenStreetMap ho
 ## Téléchargement
 Applicable sur PC, Android et iOS.
 
-- Dans le dossier FR cliquez sur le fichier <code>nom du fichier.SQLiteDB</code>  puis cliquez sur <code>Download</code> 
+- Dans le dossier, cliquez sur le fichier <code>nom du fichier.SQLiteDB</code>  puis cliquez sur <code>Download</code> 
 <br><br>
 
 
