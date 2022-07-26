@@ -1,28 +1,25 @@
+ 🇫🇷 [Français](README.md) `🇪🇸 Español` 🇬🇧 [English](README_EN.md)
+
 # Mapas en línea
- -  🇪🇸 **[Español](README_ES.md)** 🇫🇷 [Français](README.md) 🇬🇧 [English](README_EN.md)
-## Mapas ráster (en línea)
+
+Recopilamos aquí el acceso a mapas en línea, topo, ortofotos u otros, disponibles en algunos de los principales institutos geográficos de diferentes países.
+
+Intentaremos mantenerlos actualizados, pero si por casualidad descubre un archivo obsoleto, le agradeceremos que nos lo comunique.
+
+No dude en ponerse en contacto con nosotros para enviarnos otros accesos disponibles si tiene conocimiento de ellos.
+
+Le recordamos que estos accesos a los mapas están destinados y autorizados por su proveedor para un uso personal.<br><br>
 
 
----
-
-
-Agrupamos aquí el acceso a mapas en línea, topo, ortofotos u otros, disponibles de algunos de los principales institutos geográficos de diferentes países.
-
-Intentaremos mantenerlos actualizados, pero si descubre un archivo obsoleto, le agradeceríamos que nos lo hiciera saber.
-
-No dude en ponerse en contacto con nosotros para enviarnos otros accesos disponibles si los conoce.
-
-Le recordamos que este acceso a las tarjetas está facilitado y autorizado por su proveedor para uso personal.<br><br>
-
----
-## Tarjetas disponibles:
+## Mapas disponibles:
 <br>
 
-🇫🇷 [Francia](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR/README.md) 🇪🇸 [España](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/README.md) 🇨🇭 [Suiza](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH) 🇳🇴 [Noruega](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
+- 🇫🇷 [Francia](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR)
+- 🇪🇸 [España](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES)
+- 🇨🇭 [Suiza](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH)
+- 🇳🇴 [Noruega](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
 <br><br>
 
 
-- Más información sobre mapas ráster (online / offline): [OsmAnd Doc](https://osmand.net/docs/user/map/raster-maps)
-- Más mapas en línea (no probados): [AnyGIS](https://anygis.ru/Web/Html/Osmand_en)
-
----
+Más información sobre mapas ráster (online / offline) aquí → [OsmAnd Doc](https://osmand.net/docs/user/map/raster-maps)<br>
+Más mapas en línea (no probados) → [AnyGIS](https://anygis.ru/Web/Html/Osmand_en)
