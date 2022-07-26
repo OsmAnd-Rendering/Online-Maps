@@ -14,10 +14,10 @@ Nous vous rappelons que ces accès aux cartes sont prévus et autorisés par leu
 ## Cartes disponibles:
 <br>
 
-- 🇫🇷 [France](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR)
 - 🇪🇸 [Espagne](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES)
-- 🇨🇭[Suisse](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH)
+- 🇫🇷 [France](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR)
 - 🇳🇴 [Norvège](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
+- 🇨🇭 [Suisse](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH)
 <br><br>
 
 
