@@ -23,6 +23,36 @@ Applicable on PC, Android and iOS.
 <br><br>
 
 
+
+
+
+<h1>Menu déroulant sticky HTML et CSS</h1>
+<nav>
+  <ul>
+    <li class="deroulant"><a href="#">🇫🇷 France &ensp;</a>
+      <ul class="sous">
+        <li><a href="https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR/IGN%20Map.sqlitedb?raw=true">Carte de base IGN</a></li>
+        <li><a href="https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR/IGN%20SCAN25.sqlitedb?raw=true">Carte topographique IGN</a></li>
+        <li><a href="https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR/IGN%20Orthophotos.sqlitedb?raw=true">Orthophotos IGN</a></li>
+        <li><a href="https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR/IGN.Slopes.sqlitedb?raw=true">Pentes IGN</a></li>
+      </ul>
+    </li>
+    <li class="deroulant"><a href="#">Articles &ensp;</a>
+      <ul class="sous">
+        <li><a href="#">CSS display</a></li>
+        <li><a href="#">CSS position</a></li>
+        <li><a href="#">CSS float</a></li>
+      </ul>
+    </li>
+    <li><a href="#">Contact</a></li>
+    <li><a href="#">A propos</a></li>
+  </ul>
+</nav>
+
+<div class="conteneur">
+  <p>Du contenu sous le menu</p>
+</div>
+
 <nav>
   <ul>
     <li class="menu-deroulant">
