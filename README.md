@@ -18,7 +18,7 @@ Nous vous rappelons que ces accès aux cartes sont prévus et authorisés par le
 ## Cartes disponibles:
 <br>
 
-🇫🇷 [France](https://github.dev/OsmAnd-Rendering/Online-Maps/blob/main/FR/README.md) 🇪🇸 [Espagne](hhttps://github.dev/OsmAnd-Rendering/Online-Maps/blob/main/ES/README.md) 🇨🇭[Suisse](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH) 🇳🇴 [Norvège](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
+🇫🇷 [France](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR/README.md) 🇪🇸 [Espagne](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/README.md) 🇨🇭[Suisse](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH) 🇳🇴 [Norvège](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
 <br><br>
 
 
