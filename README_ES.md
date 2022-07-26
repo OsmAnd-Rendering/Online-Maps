@@ -14,7 +14,22 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 ## Mapas disponibles:
 <br>
 
-- 🇪🇸 [España](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES)
+<!-- - 🇪🇸 [España](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES) -->
+<details>
+<summary>🇪🇸 <strong>España</strong></summary>
+
+* [IGN mapa base](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/ES%20IGN%20BASE.sqlitedb?raw=true)
+* [IGN mapa topo](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/ES%20IGN%20TOPO.sqlitedb?raw=true)
+* [IGN Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/ES%20IGN%20PNOA.sqlitedb?raw=true)
+
+<strong>comunidades autónomas</strong>
+* [Catalunya](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CAT)
+* [Comunitat Valenciana](https://github.com/OsmAnd-Rendering/Online-Maps/tree/main/ES/CV)
+</details>
+
+
+
+
 - 🇫🇷 [Francia](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR)
 - 🇳🇴 [Noruega](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
 - 🇨🇭 [Suiza](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH)
