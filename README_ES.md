@@ -48,7 +48,7 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 <details>
 <summary>🇨🇭 <strong>Suiza</strong></summary>
 
-* [Swiss Slopes]https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH/Swiss%20Slopes.sqlitedb?raw=true)
+* [Swiss Slopes](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH/Swiss%20Slopes.sqlitedb?raw=true)
 * [Swiss Topo](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH/Swiss%20Topo.sqlitedb?raw=true)
 </details>
 
