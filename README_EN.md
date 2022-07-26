@@ -21,5 +21,5 @@ We remind you that these accesses to the maps are provided and authorized by the
 <br><br>
 
 
-More information about raster maps (online / offline) here → [OsmAnd Doc](https://osmand.net/docs/user/map/raster-maps)
+More information about raster maps (online / offline) here → [OsmAnd Doc](https://osmand.net/docs/user/map/raster-maps)<br>
 More maps online (untested) here → [AnyGIS](https://anygis.ru/Web/Html/Osmand_en)
