@@ -1,4 +1,4 @@
-🇫🇷 `Français` 🇪🇸 [Español](README_ES.md) 🇬🇧 [English](README_EN.md)
+`🇫🇷 Français` 🇪🇸 [Español](README_ES.md) 🇬🇧 [English](README_EN.md)
 
 # Cartes en ligne
 
