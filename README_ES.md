@@ -15,6 +15,7 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 <br>
 
 <!-- - 🇪🇸 [España](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES) -->
+
 <details>
 <summary>🇪🇸 <strong>España</strong></summary>
 
@@ -23,16 +24,37 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 * [IGN Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/ES%20IGN%20PNOA.sqlitedb?raw=true)
 
 <strong>comunidades autónomas</strong>
+
 * [Catalunya](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CAT)
 * [Comunitat Valenciana](https://github.com/OsmAnd-Rendering/Online-Maps/tree/main/ES/CV)
 </details>
 
+<details>
+<summary>🇫🇷 <strong>Francia</strong></summary>
 
+* [Carte de base IGN](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR/IGN%20Map.sqlitedb?raw=true)
+* [Carte topographique IGN](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR/IGN%20SCAN25.sqlitedb?raw=true)
+* [Orthophotos IGN](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR/IGN%20Orthophotos.sqlitedb?raw=true)
+* [Pentes IGN](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR/IGN.Slopes.sqlitedb?raw=true)
+</details>
 
+<details>
+<summary>🇳🇴 <strong>Noruega</strong></summary>
 
-- 🇫🇷 [Francia](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR)
+* [Finn Kart Norge](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO/Finn%20Kart%20Norge.sqlitedb?raw=true)
+* [UtNo Topokart](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO/UtNo%20Topokart.sqlitedb?raw=true)
+</details>
+
+<details>
+<summary>🇨🇭 <strong>Suiza</strong></summary>
+
+* [Swiss Slopes]https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH/Swiss%20Slopes.sqlitedb?raw=true)
+* [Swiss Topo](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH/Swiss%20Topo.sqlitedb?raw=true)
+</details>
+
+<!-- - 🇫🇷 [Francia](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR)
 - 🇳🇴 [Noruega](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
-- 🇨🇭 [Suiza](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH)
+- 🇨🇭 [Suiza](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH) -->
 
 <br><br>
 
