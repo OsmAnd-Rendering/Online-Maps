@@ -14,10 +14,11 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 ## Mapas disponibles:
 <br>
 
-- 🇫🇷 [Francia](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR)
 - 🇪🇸 [España](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES)
-- 🇨🇭 [Suiza](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH)
+- 🇫🇷 [Francia](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR)
 - 🇳🇴 [Noruega](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
+- 🇨🇭 [Suiza](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH)
+
 <br><br>
 
 
