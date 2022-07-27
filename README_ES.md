@@ -1,4 +1,4 @@
- 🇫🇷 [Français](README.md) `🇪🇸 Español` 🇬🇧 [English](README_EN.md)
+ 🇫🇷 [Français](README.md)&emsp;`🇪🇸 Español`&emsp;🇬🇧 [English](README_EN.md)
 
 # Mapas en línea
 
@@ -10,6 +10,7 @@ No dude en ponerse en contacto con nosotros para enviarnos otros accesos disponi
 
 Le recordamos que estos accesos a los mapas están destinados y autorizados por su proveedor para un uso personal.<br><br>
 
+---
 
 ## Mapas disponibles:
 <br>
@@ -77,8 +78,10 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 - 🇳🇴 [Noruega](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
 - 🇨🇭 [Suiza](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH) -->
 
-<br><br>
+<br>
 
 
 Más información sobre mapas ráster (online / offline) aquí → [OsmAnd Doc](https://osmand.net/docs/user/map/raster-maps)<br>
 Más mapas en línea (no probados) → [AnyGIS](https://anygis.ru/Web/Html/Osmand_en)
+
+---
