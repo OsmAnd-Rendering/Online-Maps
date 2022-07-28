@@ -23,25 +23,25 @@ Nous vous rappelons que ces accès aux cartes sont prévus et autorisés par leu
 * [Pentes IGN](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR/IGN.Slopes.sqlitedb?raw=true)
 </details>
 
-<details><summary>🇪🇸 <strong>Espagne</strong></summary>
+<details><summary>🇪🇸 <strong>Espagne</strong></summary><blockquote>
 
 * [IGN mapa base](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/ES%20IGN%20BASE.sqlitedb?raw=true)
 * [IGN mapa topo](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/ES%20IGN%20TOPO.sqlitedb?raw=true)
 * [IGN Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/ES%20IGN%20PNOA.sqlitedb?raw=true)
 
-<details><summary> Catalogne </summary>
+<details><summary> Catalogne </summary><blockquote>
 
 * [ICGC Mapa Topo](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CAT/CAT%20TOPO.sqlitedb?raw=true)
 * [ICGC Mapa Topo Gris](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CAT/CAT%20TOPO%20GRIS.sqlitedb?raw=true)
 * [ICGC Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CAT/CAT%20ORTO.sqlitedb?raw=true)
 * [ICGC Ortofotos Gris](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CAT/CAT%20ORTO%20GRIS.sqlitedb?raw=true)
-</details>
+</blockquote></details>
 
-<details><summary> Comunitat Valenciana </summary>
+<details><summary> Comunitat Valenciana </summary><blockquote>
 
 * [ICV Mapa Topo](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20TOPO.sqlitedb?raw=true)
 * [ICV Ortofotos 2021](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20ORTO%202021.sqlitedb?raw=true)
-</details>
+</blockquote></details>
 </details>
 
 <details>
