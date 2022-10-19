@@ -74,6 +74,13 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 * [Swiss Topo](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH/Swiss%20Topo.sqlitedb?raw=true)
 </details>
 
+<details>
+<summary>🇧🇪 <strong>Bélgica</strong></summary>
+
+* [NGI default map](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/BE/NGI%20Map.sqlitedb?raw=true)
+* [NGI orthophotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/BE/NGI%20Orthophotos.sqlitedb?raw=true)
+</details>
+
 <!-- - 🇫🇷 [Francia](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR)
 - 🇳🇴 [Noruega](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
 - 🇨🇭 [Suiza](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH) -->

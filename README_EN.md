@@ -57,6 +57,14 @@ We remind you that these accesses to the maps are provided and authorized by the
 * [Swiss Slopes](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH/Swiss%20Slopes.sqlitedb?raw=true)
 * [Swiss Topo](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH/Swiss%20Topo.sqlitedb?raw=true)
 </details>
+
+<details>
+<summary>🇧🇪 <strong>Belgium</strong></summary>
+
+* [NGI Default Map](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/BE/NGI%20Map.sqlitedb?raw=true)
+* [NGI Orthophotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/BE/NGI%20Orthophotos.sqlitedb?raw=true)
+</details>
+
 <!-- - 🇫🇷 [France](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR)
 - 🇳🇴 [Norway](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
 - 🇪🇸 [Spain](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES)
