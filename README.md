@@ -40,7 +40,7 @@ Nous vous rappelons que ces accès aux cartes sont prévus et autorisés par leu
 <details><summary> Comunitat Valenciana </summary><blockquote>
 
 * [ICV Mapa Topo](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20TOPO.sqlitedb?raw=true)
-* [ICV Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20ORTO%20MA.sqlitedb?raw=true)
+* [ICV Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20ORTOFOTOS%20MA.sqlitedb?raw=true)
 </blockquote></details>
 </details>
 
