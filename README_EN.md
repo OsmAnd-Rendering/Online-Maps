@@ -40,8 +40,7 @@ We remind you that these accesses to the maps are provided and authorized by the
 <details><summary> Comunitat Valenciana </summary>
 
 * [ICV Mapa Topo](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20TOPO.sqlitedb?raw=true)
-* [ICV Ortofotos 2021](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20ORTO%202021.sqlitedb?raw=true)
-* [ICV Ortofotos 2022](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20ORTO%202022.sqlitedb?raw=true)
+* [ICV Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20ORTO%20MA.sqlitedb?raw=true)
 </details>
 </details>
 
