@@ -34,7 +34,7 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 <details><summary> Comunitat Valenciana </summary>
 
 * [ICV Mapa Topo](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20TOPO.sqlitedb?raw=true)
-* [ICV Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20ORTO%20MA.sqlitedb?raw=true)
+* [ICV Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CV/ICV%20ORTOFOTOS%20MA.sqlitedb?raw=true)
 </details>
 </details>
 
