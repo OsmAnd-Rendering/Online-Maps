@@ -81,9 +81,15 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 * [NGI orthophotos](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/BE/NGI%20Orthophotos.sqlitedb?raw=true)
 </details>
 
-<!-- - 🇫🇷 [Francia](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/FR)
-- 🇳🇴 [Noruega](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/NO)
-- 🇨🇭 [Suiza](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/CH) -->
+<details>
+<summary>🇦🇷 <strong>Argentina</strong></summary>
+
+* [Argenmap](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ARG/Argenmap.sqlitedb?raw=true)
+* [Argenmap (topográfico)](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ARG/Argenmap%20(topogr%C3%A1fico).sqlitedb?raw=true)
+* [Argenmap (oscuro)](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ARG/Argenmap%20(oscuro).sqlitedb?raw=true)
+* [Argenmap (híbrido)](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ARG/Argenmap%20(h%C3%ADbrido).sqlitedb?raw=true)
+* [Argenmap (gris)](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ARG/Argenmap%20(gris).sqlitedb?raw=true)
+</details>
 
 <br>
 
