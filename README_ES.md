@@ -84,7 +84,7 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 <details>
 <summary>🇦🇷 <strong>Argentina</strong></summary>
 
-* [Argenmap](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ARG/Argenmap.sqlitedb?raw=true)
+* [Argenmap](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ARG/Argenmap.sqlitedb?raw=true)
 * [Argenmap (topográfico)](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ARG/Argenmap%20(topogr%C3%A1fico).sqlitedb?raw=true)
 * [Argenmap (oscuro)](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ARG/Argenmap%20(oscuro).sqlitedb?raw=true)
 * [Argenmap (híbrido)](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ARG/Argenmap%20(h%C3%ADbrido).sqlitedb?raw=true)
