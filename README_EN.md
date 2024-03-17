@@ -59,6 +59,12 @@ We remind you that these accesses to the maps are provided and authorized by the
 </details>
 
 <details>
+<summary>🇦🇹 <strong>Austria</strong></summary>
+
+* [Swiss Slopes](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/%F0%9F%87%A6%F0%9F%87%B9+Austria-ortophoto-basemap.sqlitedb?raw=true)
+</details>
+
+<details>
 <summary>🇧🇪 <strong>Belgium</strong></summary>
 
 * [NGI Default Map](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/BE/NGI%20Map.sqlitedb?raw=true)
