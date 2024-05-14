@@ -59,7 +59,7 @@ Nous vous rappelons que ces accès aux cartes sont prévus et autorisés par leu
 </details>
 
 <details>
-<summary>🇦🇹 <strong>Austria</strong></summary>
+<summary>🇦🇹 <strong>Autriche</strong></summary>
 
 * [Austria terrain](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Gelaende.sqlitedb?raw=true)
 * [Austria Geoland](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Geoland.sqlitedb?raw=true)
