@@ -61,13 +61,13 @@ We remind you that these accesses to the maps are provided and authorized by the
 <details>
 <summary>🇦🇹 <strong>Austria</strong></summary>
 
-* [Austria terrain](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Slopes.sqlitedb?raw=true)
-* [Austria Geoland](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Topo.sqlitedb?raw=true)
-* [Austria Gray](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Topo.sqlitedb?raw=true)
-* [Austria HiDPI](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Topo.sqlitedb?raw=true)
-* [Austria surface](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Topo.sqlitedb?raw=true)
-* [Austria Orthofoto](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Topo.sqlitedb?raw=true)
-* [Austria Overlay](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Topo.sqlitedb?raw=true)
+* [Austria terrain](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Gelaende.sqlitedb?raw=true)
+* [Austria Geoland](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Geoland.sqlitedb?raw=true)
+* [Austria Gray](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Grau.sqlitedb?raw=true)
+* [Austria HiDPI](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20HiDPI.sqlitedb?raw=true)
+* [Austria surface](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Oberflaeche.sqlitedb?raw=true)
+* [Austria Orthofoto](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Orthofoto.sqlitedb?raw=true)
+* [Austria Overlay](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Overlay.sqlitedb?raw=true)
 </details>
 
 <details>
