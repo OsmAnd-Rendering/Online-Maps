@@ -17,7 +17,7 @@ We remind you that these accesses to the maps are provided and authorized by the
 <details>
 <summary>🇫🇷 <strong>France</strong></summary>
 
-* [Carte de base IGN](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FR/FR%20IGN%20Carte%20IGN.sqlitedb?raw=true)
+* [Carte de base IGN](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FR/FR%20IGN%20Cartes%20IGN.sqlitedb?raw=true)
 * [Carte topographique IGN](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FR/FR%20IGN%20Scan25.sqlitedb?raw=true)
 * [Orthophotos IGN](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FR/FR%20IGN%20Orthophotos.sqlitedb?raw=true)
 * [Pentes IGN](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FR/FR%20IGN%20Pentes.sqlitedb?raw=true)
