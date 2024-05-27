@@ -21,6 +21,7 @@ Nous vous rappelons que ces accès aux cartes sont prévus et autorisés par leu
 * [Carte topographique IGN](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FR/FR%20IGN%20Scan25.sqlitedb?raw=true)
 * [Orthophotos IGN](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FR/FR%20IGN%20Orthophotos.sqlitedb?raw=true)
 * [Pentes IGN](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FR/FR%20IGN%20Pentes.sqlitedb?raw=true)
+* [Cartes aéronautiques IGN](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FR/FR%20IGN%20Scan%20OACI.sqlitedb?raw=true)
 </details>
 
 <details><summary>🇪🇸 <strong>Espagne</strong></summary><blockquote>
