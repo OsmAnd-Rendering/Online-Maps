@@ -1,4 +1,4 @@
-`Français`&emsp;[Español](README_ES.md)&emsp;[English](README_EN.md)
+<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_map%403x.png" width="90" /> `Français`&emsp;[Español](README_ES.md)&emsp;[English](README_EN.md)
 
 # Cartes en ligne
 
