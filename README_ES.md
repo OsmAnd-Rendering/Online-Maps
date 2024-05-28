@@ -1,4 +1,4 @@
- <img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_map%403x.png" width="90" /> <img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_map_languge%403x.png" width="25" /> [Français](README.md)&emsp;`Español`&emsp;[English](README_EN.md)
+ <img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_map%403x.png" width="100" /> <img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_map_languge%403x.png" width="25" /> [Français](README.md)&emsp;`Español`&emsp;[English](README_EN.md)
 
 # Mapas en línea
 
