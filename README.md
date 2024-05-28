@@ -12,7 +12,7 @@ Nous vous rappelons que ces accès aux cartes sont prévus et autorisés par leu
 
 ---
 
-## <img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_download%403x.png" width="30" >Cartes disponibles:
+## Cartes disponibles:
 <br>
 <details>
 <summary>🇫🇷 <strong>France</strong></summary>
