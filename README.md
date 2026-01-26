@@ -32,6 +32,8 @@ We remind you that these accesses to the maps are provided and authorized by the
 * [IGN mapa base](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/ES%20IGN%20BASE.sqlitedb?raw=true)
 * [IGN mapa topo](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/ES%20IGN%20TOPO.sqlitedb?raw=true)
 * [IGN Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/ES%20IGN%20PNOA.sqlitedb?raw=true)
+* [Catastro](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/ES%20CATASTRO.sqlitedb?raw=true)
+* [Parcelas](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/ES%20PARCELAS.sqlitedb?raw=true)
 
 <details><summary> Catalogne </summary>
 
