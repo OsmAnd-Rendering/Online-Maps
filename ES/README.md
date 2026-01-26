@@ -7,6 +7,12 @@ Clic o pulsa para descargar. Luego abre el archivo directamente con Osmand y se 
 
 `Cobertura: España`
 <br><br>
+### Mapas del Catastro:
+- [Catastro](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/ES%20CATASTRO.sqlitedb?raw=true)
+- [Parcelas](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/ES%20PARCELAS.sqlitedb?raw=true)
+
+`Cobertura: España`
+<br><br>
 ### Mapas de las comunidades autónomas:
 - [Catalunya](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES/CAT)
 - [Comunitat Valenciana](https://github.com/OsmAnd-Rendering/Online-Maps/tree/main/ES/CV)
